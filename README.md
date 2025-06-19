@@ -66,7 +66,7 @@
 
 - 🚀 Upload my first C++ or Arduino project
 - 🌱 Learn version control & push code regularly
-- 🧠 Combine GFX + Arduino in creative ways
+- 🧠 Combine My Creativity + Arduino in creative ways
 - 🎯 Build a portfolio by 16 with real stuff
 
 ---
